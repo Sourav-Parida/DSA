@@ -1,6 +1,4 @@
 
-// Write a program to implement a Priority queue
-
 #include <stdio.h>
 #include <malloc.h>
 
